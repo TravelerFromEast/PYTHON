@@ -8,9 +8,6 @@
 > Parenthesis > Exponentiation > Negation > Division > Integer Division > Multiplication > Modulo > Addition > Subtraction
 
 
-**Mnemonics: PEN DIMM (MuMo) AS** 
-
-
 <h2>PRECEDENCE OF BITWISE OPERATORS</h2>
 
 > Not > Shift > AND > XOR > OR
@@ -20,8 +17,6 @@
 
 > Equal to > Less than > Greater than > Less than or equal to > Greater than or equal to > Not equal to
 
-
-**Mnemonics: ELG LeGeN**
 
 <h2>PRECEDENCE OF LOGICAL OPERATORS</h2>
 
