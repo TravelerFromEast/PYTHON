@@ -5,7 +5,7 @@
 
 <h2>PRECEDENCE OF ARITHMETIC OPERATORS</h2>
 
-> Parenthesis > Exponentiation > Negation > Division > Integer Division > Multiplication > Modulo > Addition > Subtraction
+> Parenthesis > Exponentiation > Negation > (Division , Integer Division , Multiplication , Modulo) > (Addition , Subtraction)
 
 
 <h2>PRECEDENCE OF BITWISE OPERATORS</h2>
